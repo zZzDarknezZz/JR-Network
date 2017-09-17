@@ -18,3 +18,5 @@ Discord Rules
 
 9. Don't be a dumb fucker using the bot to play CANCEROUS shit, literally sick of hearing VOCAL AUTISM through our music bot. If majority tells you to stop or staff, cut the shit out or you'll be text muted.
 Multiple offenses will be permanent.
+
+theme: jekyll-theme-hacker
